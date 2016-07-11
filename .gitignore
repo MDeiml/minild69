@@ -62,3 +62,7 @@ build/
 
 ## OS Specific
 .DS_Store
+
+## AIDE
+android/libs/gdx-backend-android.jar
+core/libs/
